@@ -1,0 +1,17 @@
+problem1(by golden):
+    min: x = 3.643600243873373, y = -11.63782921175427
+    max: x = 1.0768754858516885, y = 0.5497740256031227
+
+problem1(by dichotomous):
+    min: x = 3.643602513774872, y = -11.637829211752756
+    max: x = 1.0768797169170379, y = 0.5497740255818787
+
+problem2(by univariate combined with golden):
+    local min 1:
+        x1 = 0.08983572924337573, x2 = -0.7126632129713992, f(x1, x2) = -1.0316284529133635
+    local min 2:
+        x1 = -0.08984482311499228, x2 = 0.7126541190997826, f(x1, x2) = -1.0316284534099587
+
+problem3(by Downhill Simplex method):
+    local min 1:
+    local min 2:
